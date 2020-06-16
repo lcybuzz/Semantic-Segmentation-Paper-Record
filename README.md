@@ -11,7 +11,7 @@
 
 ### OSVOS ★★★
 **[Paper]**  (CVPR 2017) One-Shot Video Object Segmentation  <Br>
-**[Author]** [Sergi Caelles](https://sergicaelles.com/), [Kevis-Kokitsi Maninis](https://www.kmaninis.com/), [Jordi Pont-Tuset](https://www.kmaninis.com/), [Laura Leal-Taixé](https://lealtaixe.github.io/), [Daniel Cremers](https://vision.in.tum.de/members/cremers), Luc Van Gool<Br>
+**[Author]** [Sergi Caelles](https://sergicaelles.com/), [Kevis-Kokitsi Maninis](https://www.kmaninis.com/), [Jordi Pont-Tuset](https://www.kmaninis.com/), [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/), [Daniel Cremers](https://vision.in.tum.de/members/cremers), Luc Van Gool<Br>
 **[[Project](https://people.ee.ethz.ch/~cvlsegmentation//osvos/)]** <Br>
 
 # Dataset
