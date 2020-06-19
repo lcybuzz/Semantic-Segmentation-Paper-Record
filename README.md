@@ -23,7 +23,7 @@
   
 ### STM
 **[Paper]**  (ICCV 2019)  Video Object Segmentation Using Space-Time Memory Networks <Br>
-**[Author]** Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim)<Br>
+**[Author]** [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [Joon-Young Lee](https://joonyoung-cv.github.io/), [Ning Xu](https://sites.google.com/view/ningxu), [Seon Joo Kim](https://sites.google.com/site/seonjookim/)<Br>
 **[[Pytorch-Code](https://github.com/seoungwugoh/STM)]**<Br>
 
 # Dataset
