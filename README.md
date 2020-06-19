@@ -16,7 +16,15 @@
 1) 深度学习做半监督视频分割的首个(?)工作, 场景为分割视频序列中感兴趣目标(2类), 只有第一帧有真值. 未考虑帧间关系, 未考虑实时问题.
 2) 首先offline地在图像分割数据集上训练一个前背景两类分割模型, 然后对于给定序列使用第一帧的图像真值对进行online finetune, 另外训练了一个contour预测网络用来refine分割结果. 
   
-
+### agame-vos
+**[Paper]**  (CVPR 2019)  A Generative Appearance Model for End-to-End Video Object Segmentation  <Br>
+**[Author]** Joakim Johnander, [Martin Danelljan](https://martin-danelljan.github.io/), Emil Brissman, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/)<Br>
+**[[Pytorch-Code](https://github.com/joakimjohnander/agame-vos)]**<Br>
+  
+### STM
+**[Paper]**  (ICCV 2019)  Video Object Segmentation Using Space-Time Memory Networks <Br>
+**[Author]** Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim)<Br>
+**[[Pytorch-Code](https://github.com/seoungwugoh/STM)]**<Br>
 
 # Dataset
 Davis **[[Project](https://davischallenge.org/index.html)]**
