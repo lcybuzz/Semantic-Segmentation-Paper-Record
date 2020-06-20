@@ -21,10 +21,11 @@
 **[Author]** Joakim Johnander, [Martin Danelljan](https://martin-danelljan.github.io/), Emil Brissman, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/)<Br>
 **[[Pytorch-Code](https://github.com/joakimjohnander/agame-vos)]**<Br>
   
-### STM
+### STM ★★★
 **[Paper]**  (ICCV 2019)  Video Object Segmentation Using Space-Time Memory Networks <Br>
 **[Author]** [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [Joon-Young Lee](https://joonyoung-cv.github.io/), [Ning Xu](https://sites.google.com/view/ningxu), [Seon Joo Kim](https://sites.google.com/site/seonjookim/)<Br>
 **[[Pytorch-Code](https://github.com/seoungwugoh/STM)]**<Br>
+半监督VOS的代表方法, 将之前的预测结果编码为key-value储存起来, 对于当前帧,对其提取特征并作为query与之前帧的key做相似度计算,对value加权取值, 取出的特征和当前特征一并送入decoder预测mask
 
 # Dataset
 Davis [[Project](https://davischallenge.org/index.html)]
