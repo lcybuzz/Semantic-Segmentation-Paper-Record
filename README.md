@@ -28,7 +28,8 @@
 半监督VOS的代表方法, 将之前的预测结果编码为key-value储存起来, 对于当前帧,对其提取特征并作为query与之前帧的key做相似度计算,对value加权取值, 取出的特征和当前特征一并送入decoder预测mask
 
 # Dataset
-Davis [[Project](https://davischallenge.org/index.html)]
+DAVIS [[Page](https://davischallenge.org/index.html)]
+YouTube-VOS [[Page](Youtube.com)]
 
 阿里天池视频分割竞赛 [[Page](https://tianchi.aliyun.com/competition/entrance/531797/introduction)]
 
